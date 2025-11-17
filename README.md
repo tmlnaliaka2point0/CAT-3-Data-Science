@@ -1,7 +1,7 @@
 # CAT-3-Data-Science
 # **Scenario 2: Student Enrollment Prediction**
 
-## 🎯 Objective and Data
+## Objective and Data
 The goal is to develop a **classification model** to predict:
 1.  Which admitted students are likely to **enroll** in a program.
 2.  Which enrolled students may need **additional support to graduate**.
